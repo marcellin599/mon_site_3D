@@ -40,21 +40,18 @@ mon_site_3D/
 
 1. Cloner le projet
 
-git clone https://github.com/marcellin599/mon_site_3D.git
-cd mon_site_3D
-Installer les dépendances (si tu utilises Vite ou npm)
-npm install
-Lancer le serveur de développement
-npm run dev
-Ouvrir le projet dans ton navigateur à l’adresse indiquée par Vite.
-Mon rôle
-Conception front-end et intégration 3D
-Expérimentation UX et animations interactives
-Création d’un portfolio immersif et moderne
+-git clone https://github.com/marcellin599/mon_site_3D.git
+-cd mon_site_3D
+-Installer les dépendances (si tu utilises Vite ou npm)
+-npm install
+-Lancer le serveur de développement
+-npm run dev
+-Ouvrir le projet dans ton navigateur à l’adresse indiquée par Vite.
+-Mon rôle
+-Conception front-end et intégration 3D
+-Expérimentation UX et animations interactives
+-Création d’un portfolio immersif et moderne
 
 ### Démo
-
-
-https://marcellin599.github.io/mon_site_3D/
-
+Lien vers le site : *bientôt en ligne*
 ---
