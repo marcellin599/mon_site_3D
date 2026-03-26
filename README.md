@@ -40,7 +40,6 @@ mon_site_3D/
 
 1. Cloner le projet
 
-```bash
 git clone https://github.com/marcellin599/mon_site_3D.git
 cd mon_site_3D
 Installer les dépendances (si tu utilises Vite ou npm)
@@ -56,6 +55,6 @@ Création d’un portfolio immersif et moderne
 ### Démo
 
 
-
+https://marcellin599.github.io/mon_site_3D/
 
 ---
