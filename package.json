@@ -1,0 +1,18 @@
+{
+  "name": "mon_site_3d",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "three": "^0.180.0"
+  },
+  "devDependencies": {
+    "vite": "^7.1.7"
+  },
+  "scripts": {
+    "dev": "vite"
+  }
+}
