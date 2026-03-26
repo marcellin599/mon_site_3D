@@ -1,13 +1,19 @@
 # Node
 node_modules/
 
-# Builds / Vite
+# Build / Vite
 dist/
+.vite/
 
 # Systèmes
 .DS_Store
 Thumbs.db
 
-# Textures lourdes (optionnel si tu veux pas les pousser)
-*.jpg
-*.png
+# Textures lourdes temporaires
+*.psd
+*.tga
+*.blend
+
+# Optionnel : ignorer les gros jpg/png si tu veux les remplacer par des versions compressées
+textures/*.jpg
+textures/*.png
