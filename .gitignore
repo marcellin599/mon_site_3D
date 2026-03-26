@@ -1,0 +1,13 @@
+# Node
+node_modules/
+
+# Builds / Vite
+dist/
+
+# Systèmes
+.DS_Store
+Thumbs.db
+
+# Textures lourdes (optionnel si tu veux pas les pousser)
+*.jpg
+*.png
